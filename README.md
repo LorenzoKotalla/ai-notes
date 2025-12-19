@@ -9,3 +9,5 @@ Focus areas:
 - RAG basics
 
 Mostly short notes and small experiments.
+Notes on LLM behavior:
+https://medium.com/@lorenzo.kotalla/notes-on-llm-behavior-and-prompt-sensitivity-c398621900a9
